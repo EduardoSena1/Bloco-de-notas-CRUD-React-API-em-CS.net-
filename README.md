@@ -2,7 +2,7 @@
 # Este repositório faz parte de um trabalho  da disciplina de Desenvolvimento WEB
 # Uma aplicação de um bloco de Notas usando react e com backend usando C# .net cores
 # Atenção na configuração do CORS na API no arquivo Program.cs coloque ao endereço da aplicação react
-exemplo: http://localhost:3000, isso faz com que  a api permita receber as requisições da aplicação em um endereço difente. 
+exemplo: http://localhost:3000, isso faz com que  a api permita receber as requisições da aplicação em um endereço diferente. 
 
 
 
